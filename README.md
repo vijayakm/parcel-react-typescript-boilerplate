@@ -12,3 +12,14 @@ This is a base or example repo for a React app using TypeScript and Parcel as th
 ### Utils
 
 * [parcel](https://parceljs.org)
+* [prettier](https://prettier.io)
+* [eslint](https://eslint.org)
+
+## Setup
+
+```
+yarn
+yarn start
+yarn format
+yarn lint
+```
